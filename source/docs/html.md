@@ -1,6 +1,6 @@
 ---
 title: HTML
-description: Building a navigation menu for your site
+description: Code style guidelines for HTML
 extends: _layouts.documentation
 section: content
 ---

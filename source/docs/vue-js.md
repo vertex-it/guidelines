@@ -1,6 +1,6 @@
 ---
 title: Vue JS
-description: Building a navigation menu for your site
+description: Code style guidelines for Vue JS
 extends: _layouts.documentation
 section: content
 ---

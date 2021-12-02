@@ -1,6 +1,6 @@
 ---
 title: Laravel
-description: Building a navigation menu for your site
+description: Code style guidelines for Laravel framework
 extends: _layouts.documentation
 section: content
 ---
@@ -256,7 +256,7 @@ Other examples of naming convention:
 | Policies | singular | PostPolicy | PostsPolicy |
 | Public routes | kebab-case | vertex-it.com/example-url | https://vertex-it.com/exampleUrl |
 | Route names | singular, camelCase | blog.forceDelete | blogs.force-delete |
-| Route parameters | camelCase | `{newsItem}` | `{news_item}` |
+| Route parameters | camelCase | newsItem | news_item |
 | Service class | singular | PostService | PostsService |
 | Tables | plural, snake_case | post_comments | postComment,  post_comment |
 | Traits | adjective | Notifiable | Notification |

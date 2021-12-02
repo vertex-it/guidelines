@@ -1,9 +1,6 @@
 <?php
 
 return [
-    'Getting Started' => [
-        'url' => 'docs/getting-started',
-    ],
     'Code Style Guidelines' => [
         'url' => 'docs/code-style-guidelines',
         'children' => [
@@ -14,9 +11,6 @@ return [
             'JavaScript' => 'docs/javascript',
             'Vue JS' => 'docs/vue-js',
         ],
-    ],
-    'Naming Convention' => [
-        'url' => 'docs/naming-convention',
     ],
     'Version Control' => [
         'url' => 'docs/version-control',

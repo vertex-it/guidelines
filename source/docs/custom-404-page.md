@@ -1,6 +1,6 @@
 ---
 title: Custom 404 Page
-description: Custom 404 pages with Jigsaw docs starter template
+description: Custom 404 page.
 extends: _layouts.documentation
 section: content
 ---
@@ -24,7 +24,3 @@ This starter template includes a custom __404 Not Found__ error page, located at
 </div>
 @endsection
 ```
-
----
-
-Depending on where your site is hosted, you may need to configure your server to use the custom 404 page. For more details, visit the [Jigsaw documentation about configuring a custom 404 page.](https://jigsaw.tighten.co/docs/custom-404-page/)

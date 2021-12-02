@@ -1,6 +1,6 @@
 ---
 title: PHP
-description: Building a navigation menu for your site
+description: Code style guidelines for PHP
 extends: _layouts.documentation
 section: content
 ---
@@ -10,7 +10,10 @@ section: content
 # PHP {#php}
 
 Code style must follow [PSR-1](https://www.php-fig.org/psr/psr-1/), [PSR-2](https://www.php-fig.org/psr/psr-2/) and [PSR-12](https://www.php-fig.org/psr/psr-12/).  
-You can also read [PHP the right way](https://phptherightway.com/), a very detailed guide to writing clean and easy-to-read PHP code.
+
+You can also read [PHP the right way](https://phptherightway.com/), a very detailed guide to writing clean and easy-to-read PHP code.  
+
+Always use [PHP CS Fixer with our custom rules.](https://github.com/vertex-it/php-cs/)
 
 ---
 

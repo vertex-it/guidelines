@@ -1,6 +1,6 @@
 ---
 title: JavaScript
-description: Building a navigation menu for your site
+description: Code style guidelines for JavaScript
 extends: _layouts.documentation
 section: content
 ---
